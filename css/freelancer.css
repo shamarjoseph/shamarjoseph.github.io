@@ -13,7 +13,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  font-family: 'Bodoni'; }
+  font-family: 'Source Sans'; }
 
 hr.star-light,
 hr.star-dark {
@@ -84,7 +84,7 @@ section {
   padding-top: 1rem;
   padding-bottom: 1rem;
   font-weight: 700;
-  font-family: 'Montserrat'; }
+  font-family: 'Source Sans'; }
   #mainNav .navbar-brand {
     color: #fff; }
   #mainNav .navbar-nav {
@@ -136,7 +136,7 @@ header.masthead {
     line-height: 3rem; }
   header.masthead h2 {
     font-size: 1.3rem;
-    font-family: 'Lato'; }
+    font-family: 'Source Sans'; }
 
 @media (min-width: 992px) {
   header.masthead {

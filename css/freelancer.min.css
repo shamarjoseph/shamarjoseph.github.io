@@ -346,7 +346,7 @@ a:active, a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #000000!important;
+  background-color: #ffffff!important;
 }
 
 .bg-secondary {
@@ -362,7 +362,7 @@ a:active, a:focus, a:hover {
 }
 
 .btn-primary {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {

@@ -358,7 +358,8 @@ a:active, a:focus, a:hover {
 }
 
 .text-secondary {
-  color: #2c3e50!important;
+  font-family: 'Source Sans Pro';
+  color: #000000!important;
 }
 
 .btn-primary

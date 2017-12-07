@@ -85,7 +85,7 @@ section h2 {
 
 #mainNav .navbar-nav>li>a {
   font-size: 11px;
-  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 2px;
   text-transform: uppercase
 }
@@ -419,7 +419,7 @@ footer ul li a.active, footer ul li a:active, footer ul li a:focus, footer ul li
 
 .btn {
   border-radius: 300px;
-  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   letter-spacing: 2px;
   text-transform: uppercase
 }

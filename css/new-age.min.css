@@ -230,6 +230,7 @@ section.download .badges .badge-link img {
 
 section.features .section-heading {
   margin-bottom: 50px
+  max-width: 930px
 }
 
 section.features .section-heading h2 {

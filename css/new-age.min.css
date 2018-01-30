@@ -47,6 +47,10 @@ p {
   margin-bottom: 20px
 }
 
+section {
+  padding: 100px 0
+}
+
 section h2 {
   font-size: 50px
 }
@@ -189,6 +193,11 @@ header.masthead .device-container .screen img {
   }
 }
 
+section.download {
+  position: relative;
+  padding: 150px 0
+}
+
 section.download h2 {
   font-size: 50px;
   margin-top: 0
@@ -234,7 +243,7 @@ section.features .section-heading p {
 }
 
 section.features .device-container, section.features .feature-item {
-  max-width: 500px;
+  max-width: 325px;
   margin: 0 auto
 }
 

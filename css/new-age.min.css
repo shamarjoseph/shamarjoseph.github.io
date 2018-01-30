@@ -258,7 +258,7 @@ section.features .device-container {
 }
 
 section.features .feature-item {
-  max-width: 980px;
+  max-width: 500px;
   padding-top: 50px;
   text-align: center
 }
